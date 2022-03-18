@@ -15,7 +15,7 @@ In 2018 only ENPH and RUN stocks did well through out the year with a return ove
 ![All Stock 2018](https://github.com/elzmanzi/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
 
 
-By observing 2017 returns ,  all stock we realize that there is many stocks who performed really well like DQ, ENPH, FSLR, SEDG comparing to the year of 2018. They performed over 100%. 
+By observing 2017 returns ,  all stock we realize that there is many stocks which has high performance  like DQ, ENPH, FSLR, SEDG comparing to the year of 2018. They performed over 100%. 
 DQ and ENPH performed wel
 ![All Stock 2017](https://github.com/elzmanzi/stock-analysis/blob/main/Resources/VBA_Challenge_2017.PNG)
 
